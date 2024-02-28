@@ -1,7 +1,7 @@
 module.exports = {
   theme: 'reco',
   title: '我的博客',
-  base: '/interview/',
+  base: '/vuepress/',
   description: 'XXX',
   themeConfig: {
     subSidebar: 'auto',
